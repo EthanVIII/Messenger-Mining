@@ -1,0 +1,2 @@
+# Strip output for ipynb for commits
+*.ipynb filter=strip-notebook-output  
